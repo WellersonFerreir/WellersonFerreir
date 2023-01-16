@@ -1,5 +1,5 @@
 
-Olá" me chamo Wellerson
+<h1> Olá! me chamo Wellerson</h1>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WellersonFerreir&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="WellersonFerreir github stats" /> 
